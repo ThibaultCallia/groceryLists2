@@ -1,2 +1,2 @@
-# groceryLists2
+# GroceryLists
 Created with CodeSandbox
